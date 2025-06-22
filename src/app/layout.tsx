@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nguyễn Thành Dạt",
+  title: "Nguyễn Thành Đạt",
   description: "Giới thiệu thông tin về tôi!",
 };
 
