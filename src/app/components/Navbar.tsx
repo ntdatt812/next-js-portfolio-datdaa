@@ -32,7 +32,7 @@ const Navbar = () => {
         {/* desktop menu */}
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="text-primary text-xl font-bold">
-            DatdaaPortfolio&trade;
+            DatDaaPortfolio&trade;
           </Link>
 
           {/* destop menu */}

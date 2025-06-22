@@ -18,7 +18,7 @@ const Hero = () => {
           className="mb-4 flex flex-col items-center"
         >
           <Image
-            src="/profile.avif"
+            src="/profile.jpg"
             alt="profile image"
             width={100}
             height={100}

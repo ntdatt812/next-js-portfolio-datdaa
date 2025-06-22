@@ -23,7 +23,7 @@ const Project = () => {
           variants={staggerContainer}
           initial="initial"
           whileInView="animate"
-          viewport={{ once: true, amount: 0.2 }}
+          viewport={{ once: true, amount: 0.1 }}
         >
           {projects.map((project) => (
             <motion.article
