@@ -3,6 +3,7 @@
 import React from "react";
 import { FaCode, FaGraduationCap, FaLaptopCode } from "react-icons/fa";
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 // Animation presets
 const fadeIn = {
@@ -145,7 +146,10 @@ const AboutPage = () => {
               Junior Full Stack Developer
             </h3>
             <p className="text-primary mb-2">
-              LIGHT ROAD LIMITED COMPANY (LRCO) — Present
+              <Link href={"http://minhlo.com.vn/"}>
+                LIGHT ROAD LIMITED COMPANY (LRCO)
+              </Link>{" "}
+              — Present
             </p>
             <ul className="text-secondary list-inside list-disc space-y-2">
               <li>
