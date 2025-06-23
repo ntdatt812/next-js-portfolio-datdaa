@@ -2,8 +2,8 @@
 <h1 align="center">🌱 My Portfolio - Built with Next.js & Tailwind CSS</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-13-blue?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3-blue?style=flat-square&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Next.js-15-blue?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-4-blue?style=flat-square&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/Framer%20Motion-Animation-purple?style=flat-square&logo=framer" />
   <img src="https://img.shields.io/badge/Made%20with%20❤️-for%20Open%20Source-red" />
 </p>
@@ -21,7 +21,7 @@ Dự án này thể hiện khả năng xây dựng giao diện hiện đại, an
 
 ## 🧠 Công nghệ sử dụng
 
-- ⚡ **Next.js 13+** – Framework mạnh mẽ trên nền React
+- ⚡ **Next.js 15** – Framework mạnh mẽ trên nền React
 - 🎨 **Tailwind CSS** – CSS tiện dụng, dễ tùy biến
 - 🎞 **Framer Motion** – Animation chuyên nghiệp
 - 🌙 **Dark Mode** – Tự động chuyển sáng/tối
@@ -47,8 +47,6 @@ Dự án này thể hiện khả năng xây dựng giao diện hiện đại, an
 | Trang chủ                          | Dự án                                  | Blog                               |
 | ---------------------------------- | -------------------------------------- | ---------------------------------- |
 | ![](./public/screenshots/home.png) | ![](./public/screenshots/projects.png) | ![](./public/screenshots/blog.png) |
-
-> 📁 Bạn cần tạo thư mục `public/screenshots/` và thêm ảnh demo tương ứng.
 
 ---
 
