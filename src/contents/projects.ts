@@ -12,8 +12,8 @@ export const projects: IProjects[] = [
       "MongoDB",
       "Nest.js",
     ],
-    githubLink: "https://github.com",
-    demoLink: "https://demo.com",
+    githubLink: "https://github.com/ntdatt812",
+    demoLink: "https://qlcayxanh.tech36.net/",
     image: "/projects/e-commerce-website.png",
   },
   // {
