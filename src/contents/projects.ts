@@ -14,7 +14,7 @@ export const projects: IProjects[] = [
     ],
     githubLink: "https://github.com/ntdatt812",
     demoLink: "https://qlcayxanh.tech36.net/",
-    image: "/projects/e-commerce-website.png",
+    image: "/projects/cayxanhdunghoc.png",
   },
   // {
   //   title: "Task Management App",
